@@ -1,6 +1,6 @@
 module example-go-gin
 
-go 1.22.9
+go 1.21.3
 
 require github.com/gin-gonic/gin v1.10.0
 
